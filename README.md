@@ -16,6 +16,8 @@ create a file named .env inside the source-code folder and copy the contents of 
 
 run docker-compose run --rm artisan-service key:generate
 
+visit http://localhost:8001/ in your browser, the Laravel home page will be visible
+
 
 optional steps
 
