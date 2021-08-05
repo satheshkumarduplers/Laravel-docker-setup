@@ -6,7 +6,7 @@ check if docker is installed in your system
 
 run docker-compose run --rm composer-service install
 
-run docker-compose up -d --build server-service
+run docker-compose up -d server-service
 
 
 optional steps
