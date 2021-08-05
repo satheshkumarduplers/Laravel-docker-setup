@@ -1,4 +1,6 @@
-go to the laravelsetup folder path
+go to the Laravel-docker-setup folder path
+
+check if docker is installed in your system
 
 run composer commands run docker-compose run --rm composer-service install
 
