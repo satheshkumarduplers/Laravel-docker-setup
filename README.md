@@ -1,5 +1,7 @@
 go to the laravelsetup folder path
 
+run composer commands run docker-compose run --rm composer-service install
+
 run docker-compose up -d --build server-service
 
 if you need to run artisan commands run docker-compose run --rm artisan-service "command[migrate]"
