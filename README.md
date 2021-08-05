@@ -4,6 +4,8 @@ go to the Laravel-docker-setup folder path
 
 check if docker is installed in your system
 
+for the first time docker will download all the necessary image , it may take time depending upon the internet connection
+
 run docker-compose up -d server-service
 
 run docker-compose run --rm composer-service install
