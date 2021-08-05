@@ -4,9 +4,11 @@ go to the Laravel-docker-setup folder path
 
 check if docker is installed in your system
 
+run docker-compose up -d server-service
+
 run docker-compose run --rm composer-service install
 
-run docker-compose up -d server-service
+create a file named .env inside the source-code folder and copy the contents of the .env.example file 
 
 run docker-compose run --rm artisan-service key:generate
 
