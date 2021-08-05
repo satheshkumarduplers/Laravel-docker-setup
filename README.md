@@ -1,3 +1,5 @@
+The below laravel docker setup doesnot contain settings to persist the database records, will try to work on it soon
+
 run git clone https://github.com/satheshkumarduplers/Laravel-docker-setup.git
 
 go to the Laravel-docker-setup folder path
