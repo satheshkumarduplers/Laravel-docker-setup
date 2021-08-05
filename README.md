@@ -8,6 +8,8 @@ run docker-compose run --rm composer-service install
 
 run docker-compose up -d server-service
 
+run docker-compose run --rm artisan-service key:generate
+
 
 optional steps
 
